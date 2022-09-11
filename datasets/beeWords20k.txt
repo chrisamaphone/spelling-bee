@@ -1,0 +1,1353 @@
+abcdefk:   feedback
+abcdeit:   diabetic
+abcdekn:   backend
+abcdeln:   balanced
+abcdemr:   embraced
+abcdenu:   abundance
+abcdeor:   barcode
+abcdhkr:   hardback
+abcdimo:   cambodia
+abcdkrw:   backward
+abcdkry:   backyard
+abcegmu:   gamecube
+abcehmr:   chamber
+abceilp:   applicable
+abceilr:   caliber
+abceinr:   caribbean
+abceint:   cabinet
+abceior:   aerobic
+abceirt:   bacteria
+abceklw:   blackwell
+abcekmo:   comeback
+abcekno:   backbone
+abcekor:   brokeback
+abcekpr:   paperback
+abcekrt:   bracket
+abcelmp:   campbell
+abcelop:   placebo
+abcelot:   collectable
+abcelpt:   acceptable
+abcelrt:   retractable, celebrate, bracelet
+abcemnr:   remembrance
+abcenrt:   cabernet
+abcenry:   cranberry
+abceruy:   bureaucracy
+abcgikn:   backing
+abcgiln:   cabling, balancing
+abcgilo:   biological
+abcilmo:   colombia
+abcilno:   anabolic
+abcimru:   cumbria
+abcinot:   antibiotic
+abcinrt:   britannica
+abcklop:   blackpool
+abcklpy:   playback
+abckotu:   outback
+abclnoy:   balcony
+abdeflt:   flatbed
+abdegir:   brigade
+abdeglr:   belgrade
+abdegno:   bondage
+abdehor:   deborah
+abdehrt:   breadth
+abdehry:   hyderabad
+abdeilu:   audible
+abdelnp:   dependable
+abdelor:   adorable
+abdelru:   durable
+abdelry:   bradley
+abdemru:   bermuda
+abdeorw:   wardrobe
+abdginr:   branding
+abdhjno:   handjob
+abdhkno:   handbook
+abdilnw:   baldwin
+abdilor:   billboard
+abdilrz:   blizzard
+abdlnor:   borland
+abdlory:   broadly
+abdorwy:   broadway
+abeflpr:   preferable
+abefort:   barefoot
+abefruy:   february
+abeghim:   highbeam
+abegiln:   labelling, belgian, labeling, enabling
+abegilr:   gabriel
+abeginr:   bearing
+abegint:   beating
+abegity:   gigabyte
+abegkor:   brokerage
+abegltv:   vegetable
+abegmoy:   gameboy
+abehlpt:   alphabet
+abehnty:   bethany
+abeijmn:   benjamin
+abeilmt:   timetable
+abeilmw:   webmail
+abeilrt:   bilateral
+abeilrv:   variable
+abeilry:   reliably
+abeimnt:   ambient
+abeimwz:   zimbabwe
+abeinor:   airborne
+abeinrw:   webinar
+abeirtu:   attribute
+abeirtz:   bizrate
+abeklmr:   remarkable
+abeklnt:   blanket
+abekory:   yearbook
+abelmor:   memorable
+abelmov:   movable
+abelmrt:   lambert
+abelmru:   umbrella
+abelnot:   notable
+abelnrw:   renewable
+abelopr:   probable
+abelopt:   tabletop
+abelort:   alberto, elaborate
+abelovy:   volleyball
+abelqru:   albuquerque
+abelrtw:   tableware
+abenqtu:   banquet
+abeoprt:   probate
+abeoqru:   baroque
+abghint:   bathing
+abghmru:   hamburg
+abgiknr:   barking
+abgilmn:   gambling
+abgilnu:   bilingual
+abgilrt:   gibraltar
+abgilru:   bulgaria
+abgiluz:   bugzilla
+abginot:   boating, obtaining
+abglruy:   arguably
+abhmort:   bathroom
+abiknru:   burkina
+abilmox:   mailbox
+abilnot:   battalion
+abilnpt:   paintball
+abilnrt:   brilliant
+abilnrz:   brazilian
+abilnty:   inability
+abilopr:   bipolar
+abilort:   orbital
+abiltvy:   viability, availability
+abimnot:   ambition, manitoba
+abinort:   arbitration, abortion
+abinorw:   rainbow
+abinrtv:   vibrant
+abinrty:   brittany
+abiortv:   vibrator
+ablmnor:   abnormal
+ablnoty:   notably
+ablopry:   probably
+ablorty:   laboratory
+acdefin:   financed
+acdefrt:   crafted
+acdeghn:   changed
+acdeghr:   charged
+acdegkp:   packaged
+acdehir:   chaired
+acdehiv:   achieved
+acdehlr:   cheerleader
+acdehmr:   charmed
+acdehmt:   matched
+acdehnr:   adherence
+acdehnt:   enchanted
+acdehor:   hardcore
+acdehrt:   chartered
+acdehtw:   watched
+acdeilm:   acclaimed, decimal, claimed, medical
+acdeiln:   icelandic, iceland
+acdeilt:   delicate
+acdeimr:   medicare
+acdeint:   accident, candidate, indicated, indicate
+acdeinu:   audience
+acdeirt:   accredited
+acdeitv:   addictive, activated
+acdejnt:   adjacent
+acdekrt:   tracked
+acdelno:   concealed
+acdelnr:   calendar
+acdelnv:   cleveland
+acdelot:   allocated, located
+acdelpr:   replaced
+acdelrt:   accelerated
+acdeltu:   calculated
+acdemno:   commanded
+acdemor:   camcorder
+acdemot:   accommodate
+acdenor:   concordance, accordance
+acdenot:   contacted
+acdenou:   announced
+acdenru:   endurance
+acdeort:   doctorate, decorate, decorated
+acdeoru:   ecuador
+acdeotv:   advocate
+acdeprt:   deprecated
+acdequy:   adequacy
+acdertu:   decatur
+acdertx:   extracted
+acdforw:   crawford
+acdgint:   indicating
+acdginv:   advancing
+acdhinp:   handicap
+acdijlu:   judicial
+acdilnr:   cardinal
+acdimno:   dominica, dominican
+acdimny:   dynamic
+acdimrt:   dramatic
+acdinor:   concordia
+acdinot:   indication, addiction
+acdjntu:   adjunct
+acdklnu:   auckland
+acdlmno:   macdonald, mcdonald
+acdlopy:   coldplay
+acdlort:   doctoral
+acefgnr:   fragrance
+acefhor:   foreach
+acefilt:   facilitate
+acefinr:   refinance
+acefirt:   cafeteria, certificate
+aceflnr:   freelance
+aceflpu:   peaceful
+aceflru:   careful
+acefnru:   furnace
+acefrtu:   fracture
+aceghin:   enhancing
+aceghln:   challenge
+aceghnr:   changer
+aceghnx:   exchange
+acegiln:   allegiance, cleaning
+acegilo:   geological, ecological
+acegilr:   allergic, glacier
+acegino:   canoeing
+aceginr:   carnegie
+acegirt:   cigarette
+aceglno:   collagen
+aceglou:   colleague
+acegoru:   courage
+acegorv:   coverage
+acehilm:   chemical, michael
+acehiln:   chilean
+acehilr:   hierarchical, charlie
+acehilt:   ethical, athletic
+acehimn:   mechanic, machine
+acehimt:   thematic
+acehint:   technician
+acehipt:   pathetic
+acehirt:   architect
+acehirv:   archive
+acehiry:   hierarchy
+acehlmy:   alchemy
+acehlnv:   avalanche
+acehlot:   chocolate
+acehlrt:   healthcare
+acehmnt:   catchment, enhancement, attachment
+acehprt:   chapter
+aceikmn:   nickname
+aceilmr:   miracle
+aceilmt:   metallic, metallica, climate
+aceilmv:   livecam
+aceilnp:   pelican, pinnacle, appliance
+aceilnr:   reliance
+aceilnt:   alicante, centennial
+aceilnv:   valencia
+aceilnx:   xenical
+aceilor:   calorie
+aceilpr:   replica
+aceilrt:   electrical, article
+aceilrv:   cavalier, cervical
+aceimnr:   americana, american
+aceimnt:   maintenance
+aceimnx:   mexican
+aceimpr:   creampie
+aceimrt:   metacritic
+aceimru:   maurice
+aceinpt:   anticipate, patience
+aceinrt:   creatine, interact, certain
+aceinrv:   variance
+aceintv:   inactive
+aceiopr:   propecia
+aceiort:   erotica
+aceiprt:   appreciate, participate, practice
+aceiptv:   captive
+aceiqru:   acquire
+aceirtv:   reactive, attractive, creative
+aceitvx:   activex
+acekorw:   cookware
+acekory:   kyocera
+acelmno:   coleman
+acelmnr:   mclaren
+acelmot:   cameltoe
+acelmtu:   accumulate
+acelnow:   allowance
+acelnpu:   cleanup
+acelnrt:   central
+acelnru:   laurence, unclear, nuclear
+acelnrv:   relevance
+acelnrw:   lawrence
+acelnty:   latency
+acelort:   relocate, accelerator, collateral, electoral
+acelrtw:   clearwater
+aceltxy:   exactly
+acemnor:   cameroon, cameron, romance
+acemopr:   compare
+acenort:   concentrate
+acenotv:   covenant
+acenprt:   carpenter
+aceoprt:   cooperate, corporate
+aceortx:   extractor
+aceprtu:   capture
+acfilny:   financially
+acfiloy:   officially
+acfilrt:   artificial
+acfilry:   clarify
+acfilty:   facility
+acfinot:   faction, notification
+acfltuy:   faculty
+acforty:   factory
+acghikn:   hacking
+acghimn:   machining, michigan
+acghino:   coaching
+acghinr:   charging
+acghint:   chatting, catching
+acghipr:   graphic
+acghnot:   chattanooga
+acgijkn:   jacking
+acgikln:   lacking
+acgiknp:   packing, packaging
+acgiknr:   cracking
+acgiknt:   attacking
+acgiktw:   gatwick
+acgilmn:   claiming
+acgilnp:   placing
+acgimnp:   camping, campaign
+acginor:   inorganic, organic
+acginot:   contacting, coating, containing
+acginou:   announcing
+acginrt:   attracting, tracing
+acginru:   nicaragua
+acginrv:   carving
+acginry:   carrying
+achilnp:   appalachian
+achilot:   catholic
+achilrv:   archival
+achimnr:   chairman
+achinty:   cynthia
+achirty:   charity
+achlnou:   calhoun
+achmnor:   monarch
+achmpry:   pharmacy
+achmrty:   mccarthy
+aciklot:   cocktail
+acikprt:   patrick
+acilmnr:   criminal
+acilmnt:   claimant
+acilnor:   clarion, carolina
+acilnot:   allocation, coalition, location
+acilnov:   volcanic
+acilnpr:   principal
+acilnpt:   applicant
+acilnrv:   carnival
+acilnry:   ancillary
+acilntu:   nautical
+acilnty:   analytic, analytical
+acilopt:   topical, capitol, optical, political
+aciloty:   locality
+acilprt:   clipart, practical
+acilpty:   typically, typical
+acilrtu:   actuarial
+acilrty:   critically, clarity
+acimnop:   companion
+acimnor:   carcinoma
+acimnot:   contamination
+acimort:   aromatic
+acimotu:   automatic
+acimrtu:   traumatic
+acinopt:   anticipation, caption, pontiac
+acinort:   contraction, traction, croatian, attraction
+acinorz:   zirconia
+acinotu:   continuation, caution, auction
+acinotv:   vaccination, activation, vacation
+acinprt:   pitcairn, participant
+acinrtu:   curtain
+acioprt:   capacitor, patriotic
+aciortv:   victoria
+aciprvy:   privacy
+acjkopt:   jackpot
+aclmnou:   communal
+aclnopt:   clapton
+aclnort:   carlton
+aclnorw:   cornwall
+aclnory:   carolyn
+aclnoty:   clayton
+aclortu:   calculator
+aclrtuy:   culturally
+acmnopy:   accompany, company
+acmnory:   acronym
+acnopuy:   occupancy
+acnorty:   contrary
+acnotuy:   accountancy
+adefhor:   forehead
+adefilr:   fairfield
+adefilt:   affiliated
+adefimr:   affirmed
+adefinr:   ferdinand, infrared
+adeflry:   federally
+adefltu:   default
+adefnor:   fernando
+adefnov:   vodafone
+adefnrz:   fernandez
+adeforv:   favored
+adeforw:   forwarded
+adefrtu:   featured
+adeghin:   heading
+adeghlu:   laughed
+adeghrt:   gathered
+adegiln:   aligned, dealing, leading
+adegimn:   amending, imagined, demanding
+adeginr:   drainage, gardening, regarding, reading
+adegint:   attending
+adeglnr:   enlarged, greenland
+adegnrt:   granted, generated
+adegnru:   underage
+adegnrv:   engraved
+adegntv:   advantage
+adegpru:   upgraded, upgrade
+adegrtu:   graduated, graduate
+adegrty:   tragedy
+adehiln:   headline
+adehilp:   philadelphia
+adehior:   radiohead
+adehknt:   thanked
+adehlnr:   handler
+adehnop:   headphone
+adehnrt:   threatened
+adehnrz:   hernandez
+adehntu:   haunted
+adehorv:   overhead
+adeikmw:   wikimedia, mediawiki
+adeikpw:   wikipedia
+adeilmn:   melinda
+adeilmr:   remedial
+adeilmt:   dealtime
+adeilmv:   medieval
+adeilnr:   adrenaline, ireland
+adeilnv:   danville
+adeilry:   readily
+adeilrz:   realized
+adeiltu:   altitude, latitude
+adeiltv:   validated, validate
+adeimnr:   meridian, remainder, remained
+adeimnt:   dementia, animated, maintained
+adeimnx:   examined
+adeimny:   indymedia
+adeimpr:   impaired
+adeimpz:   diazepam
+adeimrt:   diameter
+adeimty:   daytime
+adeinpt:   painted
+adeinpx:   appendix
+adeinrt:   retained, trained
+adeinrw:   dinnerware
+adeintv:   deviant
+adeiptv:   adaptive
+adeirtv:   derivative
+adeirty:   dietary
+adeklow:   lakewood
+adekmnr:   mandrake, denmark
+adekmrt:   marketed, trademark
+adelnor:   leonardo, leonard
+adelnow:   downloaded
+adelnpt:   planted
+adelnrv:   lavender
+adelnrx:   alexandre, alexandra, alexander
+adelntw:   wetland
+adelnyz:   analyzed
+adelopr:   leopard
+adelopu:   uploaded
+adelort:   tolerated
+adelorv:   overload
+adelrtv:   travelled, traveled
+adeltuv:   evaluated
+ademort:   rotterdam, moderated, moderate, moderator
+ademotu:   automated
+ademrvw:   dreamweaver
+adenorv:   andover, endeavor
+adenrtu:   unrated, redundant
+adenrtw:   warranted
+adenruw:   underwear
+adentuw:   unwanted
+adeoprt:   predator, operated
+adeoprv:   approved
+adeprtu:   departure
+adfhlnu:   handful
+adfhort:   hartford
+adfilnw:   findlaw
+adfilor:   florida
+adghiln:   highland, handling
+adghinr:   harding
+adgijno:   adjoining
+adgilno:   diagonal, loading
+adgilnr:   darling
+adgilty:   digitally
+adgimpr:   paradigm
+adginov:   avoiding
+adginrt:   trading
+adginru:   guardian
+adginrw:   drawing
+adgintu:   auditing
+adglmno:   goldman
+adglruy:   gradually
+adgnopr:   propaganda
+adgnoru:   durango
+adgnruv:   vanguard
+adhilnt:   thailand
+adhiloy:   holiday
+adhinuy:   hyundai
+adhirtw:   withdraw
+adhmnwy:   wyndham
+adilmop:   diploma
+adilmrv:   vladimir
+adilnot:   additional
+adilnuv:   individual
+adilopr:   polaroid
+adilpry:   rapidly
+adiltvy:   validity
+adimnot:   domination, dominant
+adimpry:   pyramid
+adinopr:   paranoid
+adinopt:   adaptation, adoption
+adinort:   ordinator, ordination, tradition, radiation
+adinory:   ordinary
+adinotu:   audition
+adinotx:   oxidation
+adiortu:   auditor
+adiouvx:   audiovox
+adklmnr:   landmark
+adklorw:   workload
+adlmnry:   maryland
+adlmort:   tramadol
+adlmoru:   modular
+adlnrtu:   rutland
+adlnruy:   laundry
+admnory:   raymond
+adnortu:   turnaround
+adortuw:   outward
+aefgilo:   foliage
+aefgilr:   fragile
+aefgitu:   fatigue
+aefhmrt:   aftermath
+aefiklm:   makefile
+aefiknr:   frankie
+aefilmn:   filename
+aefilru:   failure
+aefilrw:   firewall
+aefimnr:   mainframe
+aefimrw:   firmware
+aefinrt:   fainter
+aefirvw:   fairview
+aefkmrt:   aftermarket
+aeflnru:   funeral
+aeflort:   teleflora
+aeflrtw:   waterfall
+aefmnor:   foreman
+aefnort:   afternoon
+aefortw:   footwear
+aeghiln:   healing
+aeghilr:   raleigh
+aeghinp:   happening
+aeghinr:   hearing
+aeghint:   heating
+aeghirt:   heritage
+aeghlno:   halogen
+aeghmop:   homepage
+aegikln:   linkage
+aegiknw:   awakening
+aegilmt:   legitimate
+aegilnp:   appealing
+aegilnr:   learning
+aegilnt:   genital
+aegilnv:   lavigne, leaving
+aegilru:   irregular, aguilera
+aegimnr:   migraine, remaining
+aegimnx:   examining
+aegimnz:   magazine
+aegimrt:   migrate
+aegimry:   imagery
+aeginor:   georgian
+aeginot:   negotiating, negotiate, negotiation
+aeginpr:   repairing, preparing, appearing
+aeginrt:   argentine, retaining, targeting, granite, integrating, entertaining, treating, integrate, generating, argentina
+aeginrv:   engraving, averaging, vinegar
+aeginrw:   wagering, wearing
+aegintv:   navigate, negative, vintage
+aeginvw:   weaving
+aegirtu:   gratuite
+aegknpr:   pagerank
+aeglmnt:   gentleman
+aeglmpy:   gameplay
+aeglmtu:   guatemala
+aeglnou:   analogue
+aeglnoy:   genealogy
+aeglnoz:   gonzalez
+aeglnry:   generally
+aeglotv:   voltage
+aeglrtu:   regulate
+aeglrty:   greatly
+aeglruy:   regularly
+aegmnrt:   garment, arrangement, agreement
+aegmnry:   germany
+aegmopr:   programmer, programme
+aegmort:   remortgage, mortgage
+aegnopt:   pentagon
+aegnort:   generator
+aegnprt:   pregnant
+aegnrtu:   guarantee
+aegoprt:   portage
+aegorvy:   voyager
+aehijmr:   jeremiah
+aehilnt:   nathaniel
+aehilpr:   peripheral
+aehilrt:   healthier
+aehilvy:   heavily
+aehiopt:   ethiopia
+aehirtw:   whitewater
+aehklnt:   kathleen
+aehlmrt:   thermal
+aehlnot:   ethanol
+aehlnow:   halloween
+aehlnpt:   elephant
+aehlnvy:   heavenly
+aehlrty:   hartley
+aehltwy:   wealthy
+aehmnop:   phenomena
+aehnort:   another
+aehnorv:   hannover, hanover
+aehnotw:   wheaton
+aehnprt:   panther
+aehnrwy:   anywhere
+aehortw:   heathrow
+aehprty:   therapy
+aehrtvw:   whatever
+aeijnor:   janeiro
+aeiklmu:   leukemia
+aeiknru:   ukraine
+aeilmnr:   mineral
+aeilmnt:   laminate, eliminate
+aeilmor:   memorial
+aeilmpr:   imperial
+aeilmrt:   realtime, material
+aeilmtu:   ultimate
+aeilnor:   lorraine, nonlinear
+aeilnot:   intentional
+aeilnpr:   perennial, airplane
+aeilnpu:   pauline
+aeilnpx:   explain
+aeilnrt:   internal
+aeilnrw:   alienware
+aeilntu:   lieutenant
+aeilntv:   valentine
+aeilntz:   initialize
+aeilort:   territorial
+aeilotv:   volatile, violate
+aeilprv:   prevail
+aeilrtu:   literature
+aeilrtv:   retrieval, levitra, relative
+aeilrty:   artillery, literally, literary, reality
+aeimnot:   nominate
+aeimnrt:   maintainer, terminate, entertainment
+aeimnrx:   examiner
+aeimntv:   vietnam
+aeimnty:   anytime
+aeimotv:   motivate
+aeimprv:   vampire
+aeinort:   iteration, anterior, orientation
+aeinotv:   innovative
+aeinprt:   painter
+aeinqtu:   antique
+aeinrtv:   narrative
+aeinrty:   itinerary
+aeintxy:   anxiety
+aeioprt:   pretoria, appropriate
+aeiprtv:   private
+aeiptuv:   putative
+aeirtvy:   variety
+aeklmrx:   lexmark
+aeklotu:   tokelau
+aekmorv:   makeover
+aekoprw:   paperwork
+aekortv:   takeover
+aelmnop:   palmone
+aelmnrt:   maternal
+aelmnty:   mentally
+aelmorv:   removal
+aelnopt:   appleton
+aelnort:   tolerant
+aelnprt:   prenatal, parental
+aelnpry:   plenary
+aelnpty:   penalty
+aelnrtu:   laurent, renault, neutral
+aelnrtv:   relevant
+aelnrtx:   external
+aelnryz:   analyzer
+aelntuv:   eventual
+aelnuvz:   venezuela
+aeloprv:   overlap
+aelortv:   elevator
+aelortw:   waterloo
+aelorvy:   overlay
+aelprtu:   perpetual
+aemnort:   ornament
+aemnory:   anymore
+aemnprt:   permanent, apartment
+aemnptv:   pavement
+aemnpty:   payment
+aemprtu:   premature, temperature
+aemqrtu:   marquette
+aenopru:   european
+aenortw:   watertown
+aenorty:   attorney
+aenrtuv:   ventura
+aeoprty:   preparatory
+aeortuw:   outerwear
+aeprtxy:   taxpayer
+afgilmn:   flaming
+afgimnr:   framing, farming
+afginrt:   rafting
+afglnow:   wolfgang
+afgnort:   grafton
+afhiltu:   faithful
+afhlmru:   harmful
+afiklnr:   franklin
+afilmtu:   tamiflu
+afilnot:   affiliation, inflation
+afilnpt:   plaintiff
+afilnpu:   painful
+afilquy:   qualify
+afinotu:   fountain
+afinrty:   infantry
+afklnry:   frankly
+afknrtu:   frankfurt
+aflmoru:   formula
+aflmory:   formally
+aflnort:   frontal
+afloruv:   flavour
+aghilnu:   laughing
+aghilrt:   alright
+aghinru:   hungarian
+aghinty:   anything
+aghlotu:   although
+aghmnoy:   mahogany
+aghnruy:   hungary
+aghntuy:   naughty
+aghoprt:   photograph
+agiklnt:   talking
+agiklnw:   walking
+agikmnr:   marking
+agiknpr:   parking
+agilmno:   magnolia, mongolia
+agilmnr:   marginal
+agilmnt:   malignant
+agilnor:   original
+agilnot:   totaling, litigation
+agilnow:   allowing
+agilnpt:   planting
+agilnpy:   applying, playing
+agilnrt:   trailing
+agilnru:   inaugural
+agilnyz:   analyzing
+agilorz:   gorillaz
+agimnor:   roaming
+agimnot:   mitigation, imagination
+agimnrt:   migrating, migrant, immigrant
+agimnrw:   warming
+agimnry:   imaginary
+agimnxz:   maximizing
+aginopt:   patagonia
+aginort:   originator, originating, ignorant, rotating, irrigation
+aginorz:   organizing
+aginotv:   navigation
+aginprw:   wrapping
+aginpry:   praying
+aginrvy:   varying
+agirtvy:   gravity
+aglmoru:   glamour
+ahilmot:   hotmail
+ahilnot:   inhalation
+ahilntu:   lithuanian, lithuania
+ahilopz:   zoophilia
+ahimntw:   whitman
+ahknrty:   kathryn
+ahlmopy:   lymphoma
+ahmnopt:   phantom, hampton
+ahmnort:   marathon
+ahmnory:   harmony
+aijmnru:   marijuana
+aijnoqu:   joaquin
+ailmnot:   minolta, limitation
+ailmnpt:   implant
+ailmnry:   marilyn
+ailmopt:   optimal
+ailmopy:   olympia
+ailmort:   immortal
+ailmprt:   impartial
+ailmpry:   primarily
+ailmrty:   military
+ailnopt:   plantation, optional
+ailnopv:   pavilion
+ailnort:   rational
+ailnotv:   invitational, violation
+ailnoty:   nationality, nationally
+ailnotz:   initialization
+ailortu:   tutorial
+ailotvy:   volatility
+ailprty:   partially
+ailqtuy:   quality
+ailrtuv:   virtual
+ailruxy:   auxiliary
+aimnotu:   ammunition, mutation, automation, mountain
+aimnotv:   motivation
+aimnrtu:   mauritania
+aimrtuy:   maturity
+ainoprt:   appropriation, partition
+ainoqtu:   quotation
+ainortv:   variation
+ainqtuy:   quantity
+ajlnoru:   journal
+almnopr:   paranormal
+almnory:   normally
+almoprz:   alprazolam
+alnoptu:   pollutant
+alnrtuy:   naturally
+amnotuy:   autonomy
+amnotxy:   taxonomy
+bcdeilm:   climbed
+bcdeilr:   credible
+bcdeimr:   mcbride
+bcdeino:   obedience
+bcdeint:   benedict
+bcdeklo:   blocked
+bcehimo:   biochem
+bcehiot:   biotech
+bcehoru:   brochure
+bcehrtu:   butcher
+bceilot:   collectible
+bceimno:   combine
+bceklor:   blocker
+bcekluy:   buckley
+bcgilmn:   climbing
+bcgimno:   combining
+bcginou:   bouncing
+bcilpuy:   publicly
+bcinort:   contrib
+bdefint:   benefited
+bdegiln:   blending, bleeding
+bdegilo:   obliged
+bdeginr:   breeding
+bdeginu:   debugging
+bdegirt:   bridget
+bdeglno:   belonged
+bdeglor:   goldberg
+bdehitx:   exhibited
+bdehort:   brotherhood, bothered
+bdeilru:   rebuild, builder
+bdeimor:   embroidered
+bdeloru:   boulder
+bdemnru:   numbered
+bdenoru:   rebound
+bdeorvy:   everybody
+bdgilnu:   building
+bdgnruy:   burgundy
+bdhlnou:   bloodhound
+bdijotu:   djibouti
+befginr:   briefing
+befilry:   briefly
+beghirt:   brighter
+begilmu:   belgium
+begilno:   belonging
+begilnv:   believing
+begilrt:   gilbert
+begilty:   eligibility
+begimnr:   remembering
+beginrw:   brewing, webring
+beglmor:   bloomberg
+begnrtu:   gutenberg
+behilor:   horrible
+behlotu:   bluetooth
+behnotv:   beethoven
+beilnor:   rebellion
+beilntu:   bulletin
+beiloqu:   oblique
+beilrtu:   rebuilt
+beilrty:   terribly, liberty
+beinort:   bittorrent
+beinrtu:   turbine, tribune
+beinrty:   britney
+beioqtu:   boutique
+bejkoux:   jukebox
+bekmopr:   pembroke
+bekoprw:   powerbook
+belmnot:   belmont
+belmopr:   problem
+belortu:   trouble
+bemnorv:   november
+benruwy:   newbury
+bghortu:   brought
+bgilnow:   blowing, bowling
+bgilnoy:   lobbying
+bgilnuy:   bullying
+bginopr:   probing
+bginorw:   browning, borrowing
+bhinort:   inhibitor
+bhioprt:   prohibit
+bilmoty:   mobility
+bilnort:   bontril
+bklnory:   brooklyn
+cdefhir:   friedrich
+cdefikr:   frederick
+cdefino:   confined, confidence
+cdefinr:   difference
+cdefint:   deficient, infected
+cdefiny:   deficiency
+cdefirt:   certified
+cdefitv:   defective
+cdeflrt:   reflected
+cdefnor:   conferred, enforced
+cdegiln:   diligence, declining
+cdegino:   decoding, genocide, encoding
+cdegint:   detecting
+cdeginx:   exceeding
+cdeglnt:   neglected
+cdehimo:   homicide
+cdehinr:   enriched
+cdehipt:   pitched
+cdehotu:   touched
+cdeijnt:   injected
+cdeilnu:   included, include
+cdeilor:   crocodile
+cdeimnt:   indictment
+cdeimot:   committed
+cdeinor:   endocrine
+cdeinot:   conditioned, noticed, detection
+cdeinou:   unicode
+cdeinov:   conceived, convinced
+cdeinrt:   indirect
+cdeinru:   incurred
+cdeiopr:   periodic
+cdeiopu:   occupied
+cdeiort:   creditor, director
+cdeiorv:   divorced, divorce
+cdeiprt:   predict, predicted
+cdeiprv:   perceived
+cdeirtu:   recruited
+cdeirtv:   verdict, directv, directive
+cdeirtx:   directx
+cdeirtz:   criticized
+cdelmop:   compelled
+cdelmow:   mcdowell, welcomed
+cdelnou:   conclude, concluded
+cdelopu:   coupled
+cdelort:   electrode
+cdeloru:   coloured
+cdelrtu:   cultured
+cdemnor:   recommend, recommended
+cdemnot:   commented
+cdenotu:   counted, conducted
+cdenprt:   precedent
+cdeoprt:   protected
+cdeopru:   reproduce, reproduced, producer, produce, procedure, produced
+cdfilor:   clifford
+cdfiltu:   difficult
+cdgikno:   docking
+cdgilnu:   including
+cdginot:   conditioning
+cdimnou:   condominium
+cdimoty:   commodity
+cdinotu:   conduit, induction
+cdmnopu:   compound
+cdnortu:   conductor
+cdnotuw:   countdown
+cdoprtu:   product
+cefhlrt:   fletcher
+cefhlru:   cheerful
+cefilnu:   influence
+cefinop:   openoffice
+cefinor:   reinforce
+cefinot:   coefficient, infection
+cefinrt:   interference
+cefintv:   ineffective
+cefiort:   fioricet
+cefirty:   certify
+cefkorw:   workforce
+ceflnor:   florence
+ceflort:   reflector
+cefmort:   comforter
+ceghikn:   checking
+cegilnt:   intelligence
+cegimno:   commencing, genomic
+cegimru:   mcguire
+ceginor:   concierge, concerning
+ceginot:   contingent, connecting
+ceginpr:   piercing
+ceginrt:   energetic
+ceginru:   recurring
+ceginrv:   receiving
+cegintx:   exciting
+cegmnry:   emergency
+cegnorv:   convergence
+cegnruy:   urgency
+cehiknt:   kitchen
+cehikqu:   quickcheck
+cehilmt:   mitchell
+cehimny:   chimney
+cehinty:   ethnicity
+cehiort:   rhetoric
+cehiprt:   pitcher
+cehirvw:   whichever
+cehkotu:   checkout
+cehlnop:   cellphone
+cehlnou:   luncheon
+cehnort:   coherent
+cehopry:   prophecy
+cehoruv:   voucher
+ceijnot:   injection
+ceiklmr:   limerick
+ceikmny:   mckinney
+ceikmnz:   mckenzie
+ceikqru:   quicker
+ceilmop:   compile
+ceilnot:   election, collection
+ceilnov:   violence
+ceilnox:   lexicon
+ceilnpr:   principle
+ceilotv:   collective
+ceilptx:   explicit
+ceilrty:   electricity
+ceimnot:   commitment
+ceimnrt:   increment
+ceimnru:   numeric
+ceimntx:   excitement
+ceinopt:   inception, conception
+ceinort:   interconnect, interconnection, citroen, erection, criterion, incorrect, correction
+ceinotu:   connecticut, continue
+ceinotv:   convection, convenient, convention
+ceinotx:   extinction
+ceinprt:   intercept, precinct, prentice, recipient
+ceinpru:   pricerunner
+ceinprx:   experience
+ceiortv:   corrective
+ceiprtu:   picture
+ceiqrtu:   critique
+ceituvx:   executive
+cejoprt:   projector, project
+ceklorw:   rockwell
+cekntuy:   kentucky
+celmopt:   complete
+celmopx:   complex
+celnort:   electron, controller
+celnrty:   recently
+celorty:   correctly
+celrtuy:   cruelty, cutlery
+cemnopt:   contempt, competence, competent, component
+cemnory:   ceremony
+cemoptu:   compute
+cemortu:   commuter
+cenoprv:   provence
+cenoqru:   conquer
+cenortu:   concurrent, encounter, counter
+cenortv:   convert, converter
+cenoruv:   uncover
+cenrtuy:   century
+cfgiknu:   fucking
+cfginor:   forcing
+cfilnot:   clifton, conflict
+cfimnor:   confirm
+cfinort:   friction
+cfinotu:   function
+cghinpt:   pitching
+cgiklno:   locking
+cgiklnt:   tickling
+cgiknor:   rocking
+cgilnop:   policing
+cgilnor:   coloring
+cgilnru:   curling
+cgimnot:   committing
+cginopy:   copying
+cginoru:   occurring
+cginotu:   counting, continuing
+cginotv:   covington
+chikory:   hickory
+chimnop:   monophonic
+chimoru:   chromium
+chinorw:   norwich
+cijnotu:   injunction, conjunction, junction
+ciklquy:   quickly
+cilmopy:   olympic
+cilnoru:   councillor
+cimnotu:   continuum
+cinotuy:   continuity
+ciortvy:   victory
+cnortuy:   country
+defgiln:   fielding
+defginr:   differing
+defgiru:   figured
+defilrt:   filtered
+defilty:   fidelity
+definot:   notified, definition
+definrt:   identifier, different
+defintu:   unidentified
+defintv:   definitive
+definty:   identify
+defipru:   purified
+defmnru:   referendum
+defmopr:   performed
+defnoru:   founder
+deghilt:   lighted, delighted, delight, highlighted
+deghiot:   hogtied
+deghitw:   weighted
+degilnt:   deleting
+degilnu:   guideline
+degilnw:   dwelling, welding
+degilny:   yielding
+degiloy:   ideology
+deginor:   ignored, ordering
+deginrt:   ingredient
+deginru:   enduring
+degintx:   extending
+deglnow:   englewood
+degnoru:   undergo, grounded, underground
+degnorv:   governed
+degnorw:   greenwood
+degopru:   grouped
+dehiklo:   likelihood
+dehilrt:   thrilled
+dehiltw:   withheld
+dehimrt:   meredith
+dehinrt:   inherited
+dehinrx:   hendrix
+dehnrtu:   thunder
+deijnru:   injured
+deiknov:   invoked
+deilmno:   oldmedline
+deilmtu:   multitude
+deilnot:   deletion
+deilnov:   involved
+deilnru:   underline, underlined
+deilntu:   untitled
+deilnuv:   unveiled
+deilorw:   worldwide
+deilrvy:   delivery
+deiltuz:   utilized
+deimnot:   mentioned
+deimnrt:   determined, determine
+deimnru:   undermine
+deimnty:   indemnity
+deimprt:   permitted
+deinopt:   endpoint, pointed
+deinort:   oriented
+deinotv:   devotion
+deinprt:   reprinted, interpreted, printed
+deinrtv:   inverted
+deioprv:   provider, provided, provide
+deklorv:   overlooked
+dekorwy:   keyword
+delmopy:   employed
+deloprv:   developer
+deloprx:   explored
+demnotu:   mounted
+demnotw:   endowment
+demoprt:   prompted, promoted
+demoprw:   empowered
+denoruw:   underwood
+denprtu:   prudent
+denprtv:   prevented
+deoprtx:   exported
+dfgilno:   flooding, folding
+dfginou:   founding
+dfilmor:   milford
+dfnopru:   profound
+dfnoruy:   foundry
+dghilno:   holding
+dghimnt:   midnight
+dghortu:   drought
+dghotuy:   doughty
+dgikmno:   kingdom
+dgilmno:   molding
+dgimnpu:   dumping
+dginopr:   dropping
+dginopu:   pounding
+dginoru:   rounding
+dginorw:   drowning, wording
+dhilnop:   dolphin
+dhilnow:   downhill
+dhimtuy:   humidity
+dhiorty:   thyroid
+dhlopru:   rudolph
+dilqtuy:   liquidity
+dimnotw:   midtown
+dlopruy:   proudly
+efghilr:   hilfiger
+efghirt:   firefighter, fighter, freight
+efgilmn:   fleming
+efgilno:   lifelong
+efginor:   foregoing, offering, foreign
+efginru:   figurine
+efginrz:   freezing
+efgiorv:   forgive
+efgnort:   forgotten
+efhlopu:   hopeful
+efilopr:   profileprofile, profile
+efilrty:   fertility
+efilrtz:   fertilizer
+efimnrt:   refinement
+efinort:   frontier
+efinrtu:   furniture
+efirtux:   fixture
+eflmory:   formerly
+eflorvw:   overflow
+efmnort:   fremont
+efnortu:   fourteen, fortune
+efnqrtu:   frequent
+eghilnp:   helping
+eghilrt:   lighter
+eghiltw:   lightweight
+eghintw:   weighting
+eghlnty:   lengthy
+eghlory:   gloryhole
+eghloty:   theology
+egijknr:   jerking
+egijnoy:   enjoying
+egiknrt:   trekking
+egilmnt:   melting
+egilmor:   gilmore
+egilnor:   religion
+egilnov:   evolving
+egilnrt:   lettering
+egilnrv:   greenville
+egilnry:   relying
+egilnuy:   genuinely
+egiloty:   etiology
+egilprv:   privilege
+egimnot:   mentioning
+egimnpt:   pigment
+egimnrt:   metering, regiment
+eginopr:   pioneering
+eginort:   nitrogen, ringtone
+eginorv:   governing
+eginprt:   interpreting
+eginqru:   requiring
+eginrtu:   returning
+eginrtv:   retrieving
+eginrty:   integrity
+eginrvw:   reviewing
+egmnort:   montenegro
+egmortu:   gourmet
+egmorty:   geometry
+egnortw:   georgetown
+egnoruy:   younger
+ehilnot:   hotline
+ehinopx:   phoenix
+ehintwy:   whitney
+ehiortw:   hotwire
+ehkmorw:   homework
+ehlnopt:   telephone
+ehmnorw:   homeowner
+ehmnotw:   hometown
+ehmpruy:   humphrey
+ehnopty:   phenotype
+ehprtxy:   hypertext
+eijlnuv:   juvenile
+eijnpru:   juniper
+eijprtu:   jupiter
+eiklnot:   tolkien
+eiklnuy:   unlikely
+eilmnpt:   implement
+eilmptu:   multiple
+eilnotu:   outline
+eilnotv:   violent
+eilnquy:   uniquely
+eilnrty:   entirely
+eiloprv:   liverpool
+eiloptx:   exploit
+eilqtuy:   quietly
+eimnotz:   timezone
+eimnptu:   pentium
+eimnrtu:   runtime
+eimoprt:   importer
+eimopru:   emporium
+eimoprv:   improve
+eimoptz:   optimize
+eimortv:   overtime
+eimprtv:   primitive
+eimrtux:   mixture
+eimrtvy:   everytime
+einoprt:   interpro, repetition, petitioner, pointer, protein
+einortu:   routine
+einortv:   inventor, intervention
+einorvz:   verizon
+einprtu:   interrupt
+einprtv:   preventive
+einqruy:   enquiry
+einrtvw:   interview
+ejmnoty:   enjoyment
+ejnoruy:   journey
+eknortw:   network
+elmnort:   enrolment, enrollment
+elmopry:   polymer, employer
+elmorty:   remotely
+elmrtxy:   extremely
+elnotvy:   novelty
+eloprty:   prolyte
+emnortv:   vermont
+emnorty:   monterey
+enoprtw:   newport
+enoprty:   entropy
+enortuv:   turnover
+eoprtvy:   poverty
+fghlotu:   thoughtful
+fgilnor:   flooring
+fgilnow:   flowing, following
+fgimnor:   informing, forming
+filoprt:   portfolio
+fimnoru:   uniform
+finoprt:   footprint, nonprofit
+ghilnty:   nightly
+ghilrty:   rightly
+ghinotu:   huntington
+ghinrtu:   hurting
+ghiortu:   outright
+ghiprtu:   upright
+ghlmoty:   mythology
+ghloruy:   roughly
+ghoprtu:   throughput
+ghortuw:   wrought
+gijmnpu:   jumping
+giknorw:   working
+gilnopt:   plotting
+gilnorw:   rowling
+gilnqtu:   quilting
+gilntuz:   utilizing
+gilorty:   trilogy
+gimnort:   motoring, monitoring
+gimnoru:   mourning
+gimnotu:   mounting
+gimnotv:   vomiting
+gimnowy:   wyoming
+ginopru:   pouring, grouping
+ginoprv:   proving
+ginoqtu:   quoting
+ginortu:   tutoring, touring, routing
+ginorwy:   worrying
+gkopruw:   workgroup
+hiloprw:   whirlpool
+himprtu:   triumph
+hlmnoty:   monthly
+ijlnoty:   jointly
+ilmptuy:   multiply
+ilnoptu:   pollution
+imnoprt:   promotion
+imnorty:   minority
+lmoprty:   promptly
+loprtuy:   poultry
